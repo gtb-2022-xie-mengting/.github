@@ -7,7 +7,8 @@
 *(While,it's actually because Rachel has been already used)*
 
 'Rachel' is for my most favourite character from Friends --Rachel Green
-<img src="assets/rachel.jpg"  width="30%" />
+
+<img src="assets/Rachel.jpg"  width="30%" />
 
 *I do love Monica and Phoebe but I just want to be Rachel.And I know that's just a dream.*
 ## Some information about me 
